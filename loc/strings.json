@@ -1,55 +1,72 @@
 {
   "strings": [
     {
+      "module": "common",
       "string_id": "UI_OK",
-      "module": "common",
-      "type": "text",
-      "texts": { "en": "OK" }
+      "texts": {
+        "en": "OK"
+      },
+      "type": "text"
     },
     {
+      "module": "common",
       "string_id": "UI_CANCEL",
-      "module": "common",
-      "type": "text",
-      "texts": { "en": "Cancel" }
+      "texts": {
+        "en": "Cancel",
+        "ja": "Cancel"
+      },
+      "type": "text"
     },
     {
+      "module": "items",
       "string_id": "item_1_name",
-      "module": "items",
-      "type": "text",
-      "texts": { "en": "Health Potion" }
+      "texts": {
+        "en": "Health Potion"
+      },
+      "type": "text"
     },
     {
+      "module": "items",
       "string_id": "item_1_desc",
-      "module": "items",
-      "type": "text",
-      "texts": { "en": "Restores a little HP." }
+      "texts": {
+        "en": "Restores a little HP."
+      },
+      "type": "text"
     },
     {
+      "module": "items",
       "string_id": "item_2_name",
-      "module": "items",
-      "type": "text",
-      "texts": { "en": "Mana Potion" }
+      "texts": {
+        "en": "Mana Potion"
+      },
+      "type": "text"
     },
     {
+      "module": "quest_intro",
+      "speaker_id": "hero",
       "string_id": "DLG_INTRO_01",
-      "module": "quest_intro",
-      "type": "text_vo",
-      "speaker_id": "hero",
-      "texts": { "en": "We leave at dawn." }
+      "texts": {
+        "en": "We leave at dawn."
+      },
+      "type": "text_vo"
     },
     {
-      "string_id": "DLG_INTRO_02",
       "module": "quest_intro",
-      "type": "text_vo",
       "speaker_id": "mentor",
-      "texts": { "en": "Stay close, and watch the ridge." }
+      "string_id": "DLG_INTRO_02",
+      "texts": {
+        "en": "Stay close, and watch the ridge."
+      },
+      "type": "text_vo"
     },
     {
-      "string_id": "DLG_INTRO_03",
       "module": "quest_intro",
-      "type": "text_vo",
       "speaker_id": "hero",
-      "texts": { "en": "Understood." }
+      "string_id": "DLG_INTRO_03",
+      "texts": {
+        "en": "Understood."
+      },
+      "type": "text_vo"
     }
   ]
 }
