@@ -13,7 +13,7 @@
       "string_id": "UI_CANCEL",
       "texts": {
         "en": "Cancel",
-        "ja": "Cancel"
+        "ja": "取り消し"
       },
       "type": "text"
     },
