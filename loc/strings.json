@@ -37,7 +37,7 @@
       "module": "items",
       "type": "text",
       "texts": {
-        "en": "Mana Potion"
+        "en": "Greater Mana Potion"
       }
     },
     {
@@ -65,6 +65,23 @@
       "speaker_id": "hero",
       "texts": {
         "en": "Understood."
+      }
+    },
+    {
+      "string_id": "item_10_name",
+      "module": "items",
+      "type": "text",
+      "texts": {
+        "en": "Sunstone"
+      }
+    },
+    {
+      "string_id": "DLG_INTRO_04",
+      "module": "quest_intro",
+      "type": "text_vo",
+      "speaker_id": "mentor",
+      "texts": {
+        "en": "The pass closes at dusk."
       }
     }
   ]
