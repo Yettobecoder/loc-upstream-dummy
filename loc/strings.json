@@ -1,89 +1,155 @@
 {
   "strings": [
     {
-      "module": "common",
       "string_id": "UI_OK",
+      "filename": "loc/ui.json",
+      "module": "common",
+      "type": "text",
       "texts": {
         "en": "Okay"
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "common",
       "string_id": "UI_CANCEL",
+      "filename": "loc/ui.json",
+      "module": "common",
+      "type": "text",
       "texts": {
         "en": "Cancel",
         "ja": "キャンセル"
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "items",
       "string_id": "item_1_name",
+      "filename": "loc/items.json",
+      "module": "items",
+      "type": "text",
       "texts": {
         "en": "Health Potion"
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "items",
       "string_id": "item_1_desc",
+      "filename": "loc/items.json",
+      "module": "items",
+      "type": "text",
       "texts": {
         "en": "Restores a little HP."
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "items",
       "string_id": "item_2_name",
+      "filename": "loc/items.json",
+      "module": "items",
+      "type": "text",
       "texts": {
         "en": "Greater Mana Potion"
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "quest_intro",
-      "speaker_id": "hero",
       "string_id": "DLG_INTRO_01",
+      "filename": "loc/quest.json",
+      "module": "quest_intro",
+      "type": "text_vo",
+      "speaker_id": "hero",
       "texts": {
         "en": "We leave at dawn."
-      },
-      "type": "text_vo"
+      }
     },
     {
-      "module": "quest_intro",
-      "speaker_id": "mentor",
       "string_id": "DLG_INTRO_02",
+      "filename": "loc/quest.json",
+      "module": "quest_intro",
+      "type": "text_vo",
+      "speaker_id": "mentor",
       "texts": {
         "en": "Stay close, and watch the eastern ridge."
-      },
-      "type": "text_vo"
+      }
     },
     {
-      "module": "quest_intro",
-      "speaker_id": "hero",
       "string_id": "DLG_INTRO_03",
+      "filename": "loc/quest.json",
+      "module": "quest_intro",
+      "type": "text_vo",
+      "speaker_id": "hero",
       "texts": {
         "en": "Understood."
-      },
-      "type": "text_vo"
+      }
     },
     {
-      "module": "items",
       "string_id": "item_10_name",
+      "filename": "loc/items.json",
+      "module": "items",
+      "type": "text",
       "texts": {
         "en": "Sunstone"
-      },
-      "type": "text"
+      }
     },
     {
-      "module": "quest_intro",
-      "speaker_id": "mentor",
       "string_id": "DLG_INTRO_04",
+      "filename": "loc/quest.json",
+      "module": "quest_intro",
+      "type": "text_vo",
+      "speaker_id": "mentor",
       "texts": {
         "en": "The pass closes at dusk."
-      },
-      "type": "text_vo"
+      }
+    },
+    {
+      "string_id": "MENU_TITLE",
+      "filename": "loc/menu.json",
+      "module": "menu",
+      "type": "text",
+      "texts": {
+        "en": "Main Menu"
+      }
+    },
+    {
+      "string_id": "MENU_NEW_GAME",
+      "filename": "loc/menu.json",
+      "module": "menu",
+      "type": "text",
+      "texts": {
+        "en": "New Game"
+      }
+    },
+    {
+      "string_id": "MENU_CONTINUE",
+      "filename": "loc/menu.json",
+      "module": "menu",
+      "type": "text",
+      "texts": {
+        "en": "Continue"
+      }
+    },
+    {
+      "string_id": "DLG_BATTLE_01",
+      "filename": "loc/combat.json",
+      "module": "combat",
+      "type": "text_vo",
+      "speaker_id": "hero",
+      "texts": {
+        "en": "Hold the line."
+      }
+    },
+    {
+      "string_id": "DLG_BATTLE_02",
+      "filename": "loc/combat.json",
+      "module": "combat",
+      "type": "text_vo",
+      "speaker_id": "mentor",
+      "texts": {
+        "en": "Now."
+      }
+    },
+    {
+      "string_id": "SHOP_GREET",
+      "filename": "loc/shop.json",
+      "module": "shop",
+      "type": "text",
+      "texts": {
+        "en": "What can I get you?"
+      }
     }
   ]
 }
