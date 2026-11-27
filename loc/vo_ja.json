@@ -19,6 +19,16 @@
       "string_id": "DLG_EVENT_01",
       "wav_filename": "event_vendor_01.wav",
       "speaker_id": "vendor"
+    },
+    {
+      "string_id": "DLG_BATTLE_01",
+      "wav_filename": "battle_hero_01.wav",
+      "speaker_id": "hero"
+    },
+    {
+      "string_id": "DLG_BATTLE_02",
+      "wav_filename": "battle_mentor_01.wav",
+      "speaker_id": "mentor"
     }
   ]
 }
