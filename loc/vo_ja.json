@@ -1,7 +1,29 @@
 {
   "lines": [
-    { "string_id": "DLG_INTRO_01", "wav_filename": "intro_hero_01.wav", "speaker_id": "hero" },
-    { "string_id": "DLG_INTRO_02", "wav_filename": "intro_mentor_01.wav", "speaker_id": "mentor" },
-    { "string_id": "DLG_INTRO_03", "wav_filename": "intro_hero_02.wav", "speaker_id": "hero" }
+    {
+      "string_id": "DLG_INTRO_01",
+      "wav_filename": "intro_hero_01.wav",
+      "speaker_id": "hero"
+    },
+    {
+      "string_id": "DLG_INTRO_02",
+      "wav_filename": "intro_mentor_01.wav",
+      "speaker_id": "mentor"
+    },
+    {
+      "string_id": "DLG_INTRO_03",
+      "wav_filename": "intro_hero_02.wav",
+      "speaker_id": "hero"
+    },
+    {
+      "string_id": "DLG_BATTLE_01",
+      "wav_filename": "battle_hero_01.wav",
+      "speaker_id": "hero"
+    },
+    {
+      "string_id": "DLG_BATTLE_02",
+      "wav_filename": "battle_mentor_01.wav",
+      "speaker_id": "mentor"
+    }
   ]
 }
